@@ -13,3 +13,4 @@ Demo <https://loftylows.github.io/wunderlist-clone>
 - Rich text editor for todo descriptions (keyboard shortcuts included)
 - Saved application state (browser local storage)
 
+![App screenshot](/app-screenshot.png)
