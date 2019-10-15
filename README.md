@@ -14,3 +14,8 @@ Demo <https://loftylows.github.io/wunderlist-clone>
 - Saved application state (browser local storage)
 
 ![App screenshot](/app-screenshot.png)
+
+### TODOS
+
+- [ ] Finish adding ability to create comments
+
