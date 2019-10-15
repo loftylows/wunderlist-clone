@@ -10,6 +10,6 @@ Demo <https://loftylows.github.io/wunderlist-clone>
 - Ability to move todos between lists (drag-n-drop)
 - Todo sorting (priority, creation date, alphabetical)
 - Todo subtasks and nested subtasks
-- Rich text editor for todo descriptions
+- Rich text editor for todo descriptions (keyboard shortcuts included)
 - Saved application state (browser local storage)
 
